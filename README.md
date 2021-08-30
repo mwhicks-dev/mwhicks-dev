@@ -40,11 +40,11 @@ Ordered from how to reach me best to worst:
 
 #### Fun Facts
 
-🌿 I have a cat who was born in June 2021! His name is Basil and I love him very much.
+🌿\ I have a cat who was born in June 2021! His name is Basil and I love him very much.
 
-📚 After finishing my undergraduate, I want to go to graduate school for computer science and business administration.
+📚\ After finishing my undergraduate, I want to go to graduate school for computer science and business administration.
 
-🇨🇦 I am a citizen of the USA as well as Canada.
+🇨🇦\ I am a citizen of the USA as well as Canada.
 
 <!--
 **mwhicks-dev/mwhicks-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

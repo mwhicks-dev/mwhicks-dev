@@ -1,21 +1,50 @@
 ### Hi there! I'm Mason.
 
-I'm a college student studying mathematics, physics, and computer science at NC State University. I identify as he/they and asexual. (Feel free to ask me in private if you have any questions.)
+I'm a college student studying mathematics, physics, and computer science at NC State University. I identify as he/they and asexual. Outside of academia I play video games, drink tea, and love animals. My favorite TV shows are Steven Universe and Gravity Falls, and my favorite color is Orange.
 
-Beyond academia, which is what the rest of this page is about, I am a fairly inactive gamer and ukulele player, as well as an avid animal lover (more info about my cat will be on my Twitter after he comes home 9/4). My favorite show is Steven Universe and my favorite color is orange.
+#### Current Projects
 
-#### My academia interests
+* Additions to SDN-assisted Adaptive Bit Rate streaming (SABR)
 
-##### Mathematics
+#### Current Studies
 
-Mathematics is, through and through, my primary academic concern. Like many, I consider math to be the language of the universe. Consequently, I'd like to learn as much as possible! I would like to graduate from NCSU with an undergraduate and, potentially, masters degree in mathematics. My studies follow both pure and applied mathematics, mainly as relates to physical and computer systems. Below are a list of my specific areas of interest.
-* Calculus, in general
-* Computational mathematics
-* Combinatorics with a focus on graph theory
+* Operating Systems Concepts
+* Special Relativity & Quantum Mechanics
+* Artificial Intelligence with Python
+* Scientific Computation with Python
+* Ordinary Differential Equations analysis
 
-##### Computer Science
+#### Research Interests
 
-Although my studies and focuses are in the direction of software development and engineering, as is in demand right now and probably for a while, my academic interests are much broader! Currently, I do work on software-defined networking and cloud computing with [Renaissance Computing Institute](https://renci.org/mission-and-vision/), as well as 
+* Artificial Intelligence
+    * Natural Language Processing
+    * Genetic Algorithms
+    * Ethics of AI
+* Computability Theory
+    * P vs. NP
+    * Traveling Salesman Problem (I like graphs)
+* Computational Mathematics
+    * Analysis of computing capabilities of different programming languages
+    * Theoretical and practical limits of mathematical computing
+* Theoretical Physics
+    * I do not actually know much about physics at the moment
+    * Theory behind making science fiction into science fact
+
+#### Contact Information
+
+Ordered from how to reach me best to worst:
+* Email (mhicks071@yahoo.com)
+* Twitter (@mwhicks_twt)
+* Discord (abstractionAlpha#8454)
+* Instagram (@flffyy)
+
+#### Fun Facts
+
+🌿 I have a cat who was born in June 2021! His name is Basil and I love him very much.
+
+📚 After finishing my undergraduate, I want to go to graduate school for computer science and business administration.
+
+🇨🇦 I am a citizen of the USA as well as Canada.
 
 <!--
 **mwhicks-dev/mwhicks-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

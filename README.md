@@ -5,6 +5,7 @@ I'm a college student studying mathematics, physics, and computer science at NC 
 #### Current Projects
 
 * Additions to SDN-assisted Adaptive Bit Rate streaming (SABR)
+* Developing a background and series of tutorials in Python-based artificial intelligence programming
 
 #### Current Studies
 

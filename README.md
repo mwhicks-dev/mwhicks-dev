@@ -1,22 +1,25 @@
 ### Hi there! I'm Mason.
 
-I'm a college student studying mathematics, physics, and computer science at NC State University. I identify as he/they and asexual. Outside of academia I play video games, drink tea, and love animals. My favorite TV shows are Steven Universe and Gravity Falls, and my favorite color is Orange.
+I'm a college student studying mathematics, physics, and computer science at NC State University. I identify as he/they and asexual. Outside of academia I play video games, drink tea, and love animals. My favorite TV shows are Steven Universe and Gravity Falls, and my favorite color is orange.
 
 #### Current Projects
 
+* Working on integration and tutorials for the FABRIC public API
 * Additions to SDN-assisted Adaptive Bit Rate streaming (SABR)
-* Developing a background and series of tutorials in Python-based artificial intelligence programming
 
 #### Current Studies
 
 * Operating Systems Concepts
 * Special Relativity & Quantum Mechanics
-* Artificial Intelligence with Python
 * Scientific Computation with Python
 * Ordinary Differential Equations analysis
 
 #### Research Interests
 
+* Game Design
+    * Game programming on a low-level
+    * DAW music production
+    * Digital imaging
 * Artificial Intelligence
     * Natural Language Processing
     * Genetic Algorithms
@@ -24,12 +27,6 @@ I'm a college student studying mathematics, physics, and computer science at NC 
 * Computability Theory
     * P vs. NP
     * Traveling Salesman Problem (I like graphs)
-* Computational Mathematics
-    * Analysis of computing capabilities of different programming languages
-    * Theoretical and practical limits of mathematical computing
-* Theoretical Physics
-    * I do not actually know much about physics at the moment
-    * Theory behind making science fiction into science fact
 
 #### Contact Information
 
